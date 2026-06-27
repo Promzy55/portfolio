@@ -46,10 +46,10 @@ export default function Hero() {
           </a>
         </div>
 
-        {/* Social Links */}
+          
         <div className='flex justify-center gap-4'>
           <a
-            href='https://github.com/Promzy55!'
+            href='https://github.com/Promzy55'
             target='_blank'
             rel='noreferrer'
             className='p-3 bg-slate-800/50 hover:bg-slate-700 rounded-lg transition-colors duration-200 text-gray-400 hover:text-white'
